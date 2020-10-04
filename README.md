@@ -1,1 +1,1 @@
-"# django_sample" 
+"# django_sample" flast 
